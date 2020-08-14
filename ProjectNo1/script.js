@@ -4,26 +4,32 @@ function calculate_age(dob) {
     var age_dt = new Date(diff_ms); 
     
     return Math.abs(age_dt.getUTCFullYear() - 1970);
-}
+};
 
-const hubby = {
-    name: 'Jodie',
-    birthday: 'September 18, 1982',
-    age: calculate_age(new Date(1982, 09, 18)),
-}
+////calculate_age(new Date(2006, 08, 31));
 
-const sons = [
+function calculate_bornday(dob) {
+    let date = new Date(dob);
+    return date.toDateString();
+};
+////calculate_bornday('1982, 9, 18');
+
+const family = [
     {
-        name: 'Ethan',
-        birthday: 'May 21, 2003',
+        name: "Jodie",
+        bornday: calculate_bornday('1982, 9, 18'),
+        age: calculate_age(new Date(1982, 09, 18)),
+    },
+    {
+        name: "Ethan",
+        bornday: calculate_bornday('2003, 5, 21'),
         age: calculate_age(new Date(2003, 05, 21)),
     },
     {
-        name: 'Aidan',
-        birthday: 'August 31, 2006',
+        name: "Aidan",
+        bornday: calculate_bornday('2006, 8, 31'),
         age: calculate_age(new Date(2006, 08, 31)),
     }
-]
+];
 
-console.log(sons);
-console.log(hubby);
+console.log(family);
