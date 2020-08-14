@@ -33,3 +33,7 @@ const family = [
 ];
 
 console.log(family);
+
+
+for (let person of family)
+console.log(`${person.name} was born on ${person.bornday}. They are ${person.age} years old.`)
