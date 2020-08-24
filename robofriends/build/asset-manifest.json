@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f612e7e.chunk.css",
-    "main.js": "/static/js/main.59be4fd6.chunk.js",
-    "main.js.map": "/static/js/main.59be4fd6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8a8ac9cd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8a8ac9cd.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.e7e24cc0.chunk.js": "/static/js/2.e7e24cc0.chunk.js",
-    "static/js/2.e7e24cc0.chunk.js.map": "/static/js/2.e7e24cc0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ec933a91d620e3025a8e5e3559828632.js": "/precache-manifest.ec933a91d620e3025a8e5e3559828632.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.8f612e7e.chunk.css.map": "/static/css/main.8f612e7e.chunk.css.map",
-    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/KotoriRose-Regular.44483754.woff"
+    "main.css": "/ablossomhead/robofriends/static/css/main.a6286a59.chunk.css",
+    "main.js": "/ablossomhead/robofriends/static/js/main.06d4ff62.chunk.js",
+    "main.js.map": "/ablossomhead/robofriends/static/js/main.06d4ff62.chunk.js.map",
+    "runtime-main.js": "/ablossomhead/robofriends/static/js/runtime-main.c915bd92.js",
+    "runtime-main.js.map": "/ablossomhead/robofriends/static/js/runtime-main.c915bd92.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ablossomhead/robofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/ablossomhead/robofriends/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/ablossomhead/robofriends/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/ablossomhead/robofriends/index.html",
+    "precache-manifest.376be6a886a39134508eb47f1e25a9cd.js": "/ablossomhead/robofriends/precache-manifest.376be6a886a39134508eb47f1e25a9cd.js",
+    "service-worker.js": "/ablossomhead/robofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ablossomhead/robofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.a6286a59.chunk.css.map": "/ablossomhead/robofriends/static/css/main.a6286a59.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/ablossomhead/robofriends/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ablossomhead/robofriends/static/media/KotoriRose-Regular.44483754.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a8ac9cd.js",
+    "static/js/runtime-main.c915bd92.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.e7e24cc0.chunk.js",
-    "static/css/main.8f612e7e.chunk.css",
-    "static/js/main.59be4fd6.chunk.js"
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.a6286a59.chunk.css",
+    "static/js/main.06d4ff62.chunk.js"
   ]
 }
